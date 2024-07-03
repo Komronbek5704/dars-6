@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "description": "Bu mahsulot 1 haqida batafsil ma'lumot.",
+      "price": 10000,
+      "category": "Elektronika"
+    },
+    {
+      "id": 2,
+      "description": "Bu mahsulot 2 haqida batafsil ma'lumot.",
+      "price": 20000,
+      "category": "Kiyim-kechak"
+    },
+    {
+      "id": 3,
+      "description": "Bu mahsulot 3 haqida batafsil ma'lumot.",
+      "price": 30000,
+      "category": "Oziq-ovqat"
+    },
+    {
+      "id": 4,
+      "description": "Bu mahsulot 4 haqida batafsil ma'lumot.",
+      "price": 40000,
+      "category": "Uy-ro'zg'or buyumlari"
+    },
+    {
+      "id": 5,
+      "description": "Bu mahsulot 5 haqida batafsil ma'lumot.",
+      "price": 50000,
+      "category": "Go'zallik va parvarish"
+    },
+    {
+      "id": 6,
+      "description": "Bu mahsulot 6 haqida batafsil ma'lumot.",
+      "price": 60000,
+      "category": "Sport anjomlari"
+    },
+    {
+      "id": 7,
+      "description": "Bu mahsulot 7 haqida batafsil ma'lumot.",
+      "price": 70000,
+      "category": "Bolalar o'yinchoqlari"
+    },
+    {
+      "id": 8,
+      "description": "Bu mahsulot 8 haqida batafsil ma'lumot.",
+      "price": 80000,
+      "category": "Avto ehtiyot qismlari"
+    },
+    {
+      "id": 9,
+      "description": "Bu mahsulot 9 haqida batafsil ma'lumot.",
+      "price": 90000,
+      "category": "Kompyuter jihozlari"
+    },
+    {
+      "id": 10,
+      "description": "Bu mahsulot 10 haqida batafsil ma'lumot.",
+      "price": 100000,
+      "category": "Mebel"
+    }
+  ]
+}
